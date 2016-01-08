@@ -1,0 +1,2 @@
+http://adsbradar.ru/software-defined-radio/dvb-t-dongl-na-baze-chipa-rtl2832u-ot-realtek-v-kachestve-sdr-priemnika-3..........(DVB-T донгл на базе чипа RTL2832U от Realtek в качестве SDR-приемника 3 часть)
+http://ua6hjq.qrz.ru/sdr/rtlsdr.htm...........................................................................................(Установка и настройка RTL SDR УКВ приёмника)
