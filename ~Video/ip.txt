@@ -1,4 +1,5 @@
-https://www.youtube.com/watch?v=Pfzj4oWmptE&list=PLwTU6gw_4QniXhGgRNVLFaTK_9vj5F8YA.............(RTL-SDR-DVB-T-DAB-RTL2832U-R820T2-25MHz-1700MHz)
+https://www.youtube.com/watch?v=fzzO6OyS3Wc&list=PLwTU6gw_4Qng-WrixH0iRPg7n1u-vp4e2..................(SDR приемник из DVB тюнера, на основе чипов RTL2832U+R820T2)
 
-https://youtu.be/Pfzj4oWmptE....................................................................(Настройка программы HDSDR_HD)
-https://youtu.be/xRQ5KX4Wtmo....................................................................(SDR на DEFCON - Все ваши радиочастоты принадлежат мне. Часть 1)
+https://www.youtube.com/watch?v=fzzO6OyS3Wc..........................................................(Настройка программы HDSDR)
+https://www.youtube.com/watch?v=Wr2nioy-CYg..........................................................(SDR на DEFCON - Все ваши радиочастоты принадлежат мне. Часть 1)
+https://www.youtube.com/watch?v=TIEtLwlhGcc..........................................................(SDR на DefCon - Все ваши радиочастоты принадлежат мне. Часть 2)
