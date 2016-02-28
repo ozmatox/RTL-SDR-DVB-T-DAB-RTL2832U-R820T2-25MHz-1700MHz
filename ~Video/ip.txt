@@ -3,3 +3,4 @@ https://www.youtube.com/watch?v=fzzO6OyS3Wc&list=PLwTU6gw_4Qng-WrixH0iRPg7n1u-vp
 https://www.youtube.com/watch?v=fzzO6OyS3Wc..........................................................(Настройка программы HDSDR)
 https://www.youtube.com/watch?v=Wr2nioy-CYg..........................................................(SDR на DEFCON - Все ваши радиочастоты принадлежат мне. Часть 1)
 https://www.youtube.com/watch?v=TIEtLwlhGcc..........................................................(SDR на DefCon - Все ваши радиочастоты принадлежат мне. Часть 2)
+https://youtu.be/IGqXFhWQuXU.........................................................................(Установка программы HDSDR и драйверов zadig(ImaSoft))
