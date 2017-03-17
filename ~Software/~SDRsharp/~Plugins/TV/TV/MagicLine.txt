@@ -1,0 +1,5 @@
+<add key="TV" value="SDRSharp.TV.TVPlugin,SDRSharp.TV" />
+ 
+Для rtl-sdr используйте модифицированный R820T драйвер - http://rtl-sdr.ru/uploads/download/modrtlsdr.zip.
+
+For rtl-sdr use Mod R820T driver - http://rtl-sdr.ru/uploads/download/modrtlsdr.zip

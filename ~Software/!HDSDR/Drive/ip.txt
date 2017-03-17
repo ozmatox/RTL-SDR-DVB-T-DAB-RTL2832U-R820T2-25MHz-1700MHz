@@ -1,3 +1,0 @@
-http://zadig.akeo.ie....................................................................................(Zadig)
-http://sourceforge.net/projects/libwdi/files/zadig/.....................................................(libwdi)
-https://github.com/pbatard/libwdi/blob/master/examples/zadig_README.creole..............................(pbatard/libwdi)

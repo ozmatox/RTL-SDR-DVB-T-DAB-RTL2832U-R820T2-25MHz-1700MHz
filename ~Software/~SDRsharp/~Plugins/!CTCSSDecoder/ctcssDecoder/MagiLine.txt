@@ -1,0 +1,6 @@
+<add key="CTCSSDecoder" value="SDRSharp.CTCSSDecoder.CTCSSDecoderPlugin,SDRSharp.CTCSSDecoder" />
+
+Example:
+<sharpPlugins>
+      <add key="CTCSSDecoder" 
+      <add key="Other Pligins...

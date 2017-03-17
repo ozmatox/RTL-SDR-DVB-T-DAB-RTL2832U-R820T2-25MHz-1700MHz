@@ -1,0 +1,2 @@
+    <add key="DigitalAudioProcessor" value="SDRSharp.DigitalAudioProcessor.DigitalAudioProcessorPlugin,SDRSharp.DigitalAudioProcessor" />
+    

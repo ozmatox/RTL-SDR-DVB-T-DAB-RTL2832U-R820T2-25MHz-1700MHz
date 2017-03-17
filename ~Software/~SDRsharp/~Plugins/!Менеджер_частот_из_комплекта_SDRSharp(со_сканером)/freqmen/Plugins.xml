@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sharpPlugins>
+  <add key="Frequency_Manager" value="SDRSharp.FreqMan.FreqManPlugin,SDRSharp.FreqMan" />
+</sharpPlugins>

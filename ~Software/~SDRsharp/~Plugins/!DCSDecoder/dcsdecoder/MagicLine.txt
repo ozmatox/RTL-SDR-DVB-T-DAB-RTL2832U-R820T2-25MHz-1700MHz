@@ -1,0 +1,1 @@
+<add key="DCSDecoder" value="SDRSharp.DCSDecoder.DCSDecoderPlugin,SDRSharp.DCSDecoder" />

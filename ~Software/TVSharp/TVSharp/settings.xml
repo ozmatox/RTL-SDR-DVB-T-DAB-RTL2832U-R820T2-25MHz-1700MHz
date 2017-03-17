@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<SettingsMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Brightnes>5</Brightnes>
+  <AutoPositionCorrecion>true</AutoPositionCorrecion>
+  <ProgramAgc>true</ProgramAgc>
+  <TunerAgc>true</TunerAgc>
+  <RtlAgc>true</RtlAgc>
+  <FrequencyCorrection>43</FrequencyCorrection>
+  <Frequency>560.000</Frequency>
+  <Samplerate>2</Samplerate>
+  <DetectorLevel>0.77</DetectorLevel>
+  <Contrast>11</Contrast>
+  <InverseVideo>false</InverseVideo>
+</SettingsMemoryEntry>
